@@ -1,5 +1,8 @@
 package ru.gkcdu.restful.service;
 
+import java.io.InputStream;
+
 public interface ConvertService {
-    void convertFile();
+    String convertImageFile(InputStream file);
+    String convertDocFile(InputStream file);
 }

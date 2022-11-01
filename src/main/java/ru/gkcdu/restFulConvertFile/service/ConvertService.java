@@ -1,4 +1,4 @@
-package ru.gkcdu.restful.service;
+package ru.gkcdu.restFulConvertFile.service;
 
 import java.io.InputStream;
 

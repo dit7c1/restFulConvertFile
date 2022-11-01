@@ -1,9 +1,9 @@
-package ru.gkcdu.restful.service.impl;
+package ru.gkcdu.restFulConvertFile.service.impl;
 
 import com.documents4j.api.DocumentType;
 import com.documents4j.api.IConverter;
 import com.documents4j.job.LocalConverter;
-import ru.gkcdu.restful.service.ConvertService;
+import ru.gkcdu.restFulConvertFile.service.ConvertService;
 
 import com.itextpdf.io.image.ImageData;
 import com.itextpdf.io.image.ImageDataFactory;

@@ -1,4 +1,4 @@
-package ru.gkcdu.restful.service.impl;
+package ru.gkcdu.restFulConvertFile.service.impl;
 /*
 import com.documents4j.api.DocumentType;
 import com.documents4j.api.IConverter;

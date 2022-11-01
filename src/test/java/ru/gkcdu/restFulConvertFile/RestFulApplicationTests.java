@@ -1,4 +1,4 @@
-package ru.gkcdu.restful;
+package ru.gkcdu.restFulConvertFile;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
